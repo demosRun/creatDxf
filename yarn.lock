@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@tarikjabiri/dxf@^2.8.9":
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/@tarikjabiri/dxf/-/dxf-2.8.9.tgz#d255612ea13f5e2c685be9df7e476a09a6483df9"
+  integrity sha512-ckBkEsWdlFTvqm2ARm23xX3EVouYsnNuZWS7P/oec1WCGTjzdd9jhmtQqyhh7TQSvQo4HunbDv4Vxiv07/8zsQ==
+
 dxf-writer@^1.18.4:
   version "1.18.4"
   resolved "https://registry.yarnpkg.com/dxf-writer/-/dxf-writer-1.18.4.tgz#7e064b5550f6dfa8a6e95e7a7489b32c49d31c75"
